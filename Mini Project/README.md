@@ -1,0 +1,1 @@
+## The Mini Project for the Framework for Data and Visual Analytics (FDVA) is under development
